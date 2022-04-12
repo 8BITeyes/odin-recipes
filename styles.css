@@ -1,0 +1,20 @@
+.link {
+    color: green;
+    background-color: lightblue;
+    font-family: sans-serif, "Times New Roman", monospace;
+}
+
+.beef.picture {
+    height: auto;
+    width: 700px;
+}
+
+.pizza.picture {
+    height: auto;
+    width: 700px;
+}
+
+.cake.picture {
+    height: auto;
+    width: 700px;
+}
